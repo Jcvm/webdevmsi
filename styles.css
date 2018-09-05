@@ -6,14 +6,14 @@
 }
 
 .title-h1 {
-  color: #00008B ;
+  color: DarkBlue ;
   font-family: 'Lobster', cursive;
   font-size: 140px;
 }
 
 .about-bg {
   padding: 100px;
-  background-color: #ffffe6;
+  background-color: #D3D3D3;
   font-family: 'Raleway';
   font-size: 18px;
 }
