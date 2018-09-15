@@ -24,3 +24,9 @@
   align-items: center;
   justify-content: center;
 }
+.model {
+  padding: 200px;
+  background: url("");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
